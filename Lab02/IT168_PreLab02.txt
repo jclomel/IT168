@@ -1,0 +1,24 @@
+Justin Lomelino
+IT 168 Dr. Pierce
+
+Pre-Lab 02
+
+1.)
+
+public class FirstClass
+	{
+	public static void main(String[] args)
+		{
+		System.out.println("Welcome to Java programming!");
+		System.out.println("Java Rules!");
+		System.out.print("My name is Justin Lomelino.\n");
+		System.out.print("Success!\n");
+		System.out.print("\nGoodbye!");
+		}
+	}
+
+
+2.)
+
+The age is
+12
